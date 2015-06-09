@@ -1,0 +1,19 @@
+{
+  "name": "Clase-OpenShift",
+  "version": "1.0.0",
+  "description": "Prueba OpenShift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godenz/ejopenshift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godenz/ejopenshift/issues"
+  },
+  "homepage": "https://github.com/godenz/ejopenshift"
+}
